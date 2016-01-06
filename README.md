@@ -1,7 +1,7 @@
 # Hash_Table
 
 Performance Analysis: Hash Table 
-The java codes will analyze the time difference between the two types of hash tables: Linked implemintation and Probing implemintation.
+The java codes will analyze the time difference between the two types of hash tables: Linked implementation and Probing implementation.
 
 A Test of the codes gave me the following results. 
 
